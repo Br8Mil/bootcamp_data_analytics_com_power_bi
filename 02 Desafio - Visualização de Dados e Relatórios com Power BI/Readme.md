@@ -70,7 +70,7 @@ Bons estudos 😉
 
 ### **IMG do Meu Relatório**
 
-![**(Não foi possível executar o visual parecido com o do "data\relatorio_criativo_original_source" devido a falta de dois componentes "ChicletSlicer" e "RadarChart" que não puderam ser obtidos por falta de uma conta corporativa ou de estudante)**](.\data\cdt.png)
+![**(Não foi possível executar o visual parecido com o do "data\relatorio_criativo_original_source" devido a falta de dois componentes "ChicletSlicer" e "RadarChart" que não puderam ser obtidos por falta de uma conta corporativa ou de estudante)**](https://github.com/Br8Mil/bootcamp_data_analytics_com_power_bi/blob/main/02%20Desafio%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20e%20Relat%C3%B3rios%20com%20Power%20BI/data/cdt.png)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
