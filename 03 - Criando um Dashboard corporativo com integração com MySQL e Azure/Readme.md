@@ -2,7 +2,7 @@
 
 ![falha](https://img2.gratispng.com/20180419/tvq/avf7ph26x.webp)
 
-|Módulo 4 - Fundamentos de Power BI - Limpeza e Transformação de Dados com Power BI em 17/07/2024|
+|Módulo 4 - Fundamentos de Power BI - Criando um Dashboard corporativo com integração com MySQL e Azure em 17/07/2024|
 | :- |
 
 
