@@ -34,7 +34,7 @@ Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O f
 **IMG de exemplo**
 ![](https://raw.githubusercontent.com/Br8Mil/bootcamp_data_analytics_com_power_bi/main/04%20Desafio%20-%20Dashboard%20de%20Vendas%20com%20Power%20BI%20utilizando%20Star%20Schema/data/exemplo.png)
 
-**Obs 2**
+**Obs 2:**
 
 A ideia era um sistema de vendas de cursos, porém por ter pouco conhecimento de modelagem optei por um modelo simples focado em um profeesor de ensino médio.
 
