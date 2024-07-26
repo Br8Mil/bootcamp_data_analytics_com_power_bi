@@ -1,12 +1,16 @@
-﻿Esta pasta contém os desafios propostos para o **Boot Camp** “[Data Analytics com Power BI](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)” com duração de 82 horas.
+### Esta pasta contém os desafios propostos para o **Boot Camp** “[Data Analytics com Power BI](https://web.dio.me/track/coding-the-future-sysvision-data-analytics "Boot Camp")” com duração de 82 horas.
+
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="100"/>
 
 
-![](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
+<div align="center">
+
+<img src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png" width="400"/>
+
+</div>
 
 
-![](https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png)
-
-**Detalhes do bootcamp**
+## **Detalhes do bootcamp**
 
 Dados são o petróleo da tecnologia!
 
