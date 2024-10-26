@@ -32,7 +32,7 @@ Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para
 Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O formato, ou melhor, a granularidade, não está fixada. Podem ser utilizados diferentes formatos que correspondem a diferentes níveis de granularidade.
 
 **IMG de exemplo**
-![](https://raw.githubusercontent.com/Br8Mil/bootcamp_data_analytics_com_power_bi/main/04%20Desafio%20-%20Dashboard%20de%20Vendas%20com%20Power%20BI%20utilizando%20Star%20Schema/data/exemplo.png)
+![](modelo_simples.png)
 
 **Obs 2:**
 
